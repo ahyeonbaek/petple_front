@@ -52,3 +52,15 @@ ___etc___: notion, figma
 ⛳️ ___산책 기능___
 
 - kakaoApi를 활용한 이동 거리 측정, 기록 및 저장
+
+___
+
+## 플로우 차트
+
+![Image](https://github.com/user-attachments/assets/0ccac217-67f5-4c7c-b948-efa8666c6e1f)
+
+![Image](https://github.com/user-attachments/assets/0be13e7c-e529-423a-8f1b-c10a763fc335)
+
+![Image](https://github.com/user-attachments/assets/1ed6d6bc-d7c2-48b7-96ee-92a3475b1521)
+
+![Image](https://github.com/user-attachments/assets/61750fe8-8e79-42b5-b7ae-28c3b43f2d00)
